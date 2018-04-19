@@ -1,0 +1,4 @@
+[submodule "components/esp32-i2c_device"]
+	path = components/esp32-i2c_device
+	url = git@github.com:gabrielbvicari/esp32-i2c_device.git
+	branch = cpp_version
